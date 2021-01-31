@@ -2,9 +2,6 @@ import tweepy
 import time
 import random
 
-#python3 -m bctbot.py
-
-
 auth = tweepy.OAuthHandler('FM0jU0hCQ1ppdoU4e3xdtaXuR','cS5IIpRPtDMOWKGLV6OjTKk0H79S9XNAI2UNkkFXT8Okp8aY5y')
 auth.set_access_token('1355616985317584903-WuFjBNbkhjJTM8bpniFbQG4NIcjGVT','giO5jO9GnguOE0HpsxgzApzPZuilhe6JNVIMYXZZEKrmE')
 
